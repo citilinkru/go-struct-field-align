@@ -1,0 +1,1 @@
+# go-struct-field-align
