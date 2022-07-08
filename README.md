@@ -7,7 +7,7 @@ fixes structures alignment in golang projects using a combo from govet/fieldalig
 # USAGE
 just run from your go project root 
 ```bash
-docker run -v $(pwd):/work:rw -w /work go-struct-field-align:latest
+docker run -v $(pwd):/work:rw -w /work citilink/go-struct-field-align:latest
 ```
 
 # CONTRIBUTE
